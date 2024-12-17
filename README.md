@@ -1,4 +1,4 @@
-![👋 Hi, my name is Rojil(NepSter) Shrestha](https://globaleducation.s3.ap-south-1.amazonaws.com/globaledu/gif/front-end-development.gif)
+![👋 Hi, my name is Rojil(NepSter) Shrestha](https://miro.medium.com/v2/resize:fit:1358/0*FGD6BUzzZs1VJLuY.gif)
 
 <div id="toc">
   <ul align="center" style="list-style: none">
@@ -27,3 +27,4 @@
 <p align="left">
   <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs?username=rsshrestha23&theme=react&hide_title=false&layout=compact&langs_count=6&hide_progress=false&card_width=400" alt="GitHub top-langs Card" />
 </p>
+
