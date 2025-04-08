@@ -10,7 +10,7 @@
   </ul>
 </div>
 
- **<h3 align="left">With a strong background in web design & development, project management, IT consultancy, and educational consulting (professional training, lecturer) spanning over 7 years, I specialize in developing user-centric Websites | Web-Apps.</h3>**
+ **<h3 align="left">With a strong background in web design & development, project management, IT consultancy, and educational consulting (professional training, lecturer) spanning over 8 years, I specialize in developing user-centric Websites | Web-Apps.</h3>**
 
 **<h3 align="left">Visit my sites</h3>**
 
